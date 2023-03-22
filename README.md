@@ -1,5 +1,5 @@
 # CryptoClustering
- This exercise focus on unsupervised learning to predict if crytocurrencies are affect by 24-hour or 7-day price changes. The use of Python, Pandas, and Sklearn to create DataFrames and visualization helps determine this prediction. 
+ This exercise focus on unsupervised learning to predict if cryptocurrencies are affect by 24-hour or 7-day price changes. The use of Python, Pandas, and Sklearn to create DataFrames and visualization helps determine this prediction. 
 
 ### Scaled Data
 1. Prepare the data by normalzing the CSV file using the `StandardScaler()` from `scikit-learn`.
